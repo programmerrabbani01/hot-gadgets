@@ -1,0 +1,127 @@
+header{
+    margin-bottom: 50px;
+}
+section{
+   margin-bottom: 100px; 
+}
+.button{
+    background-color: #000000;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    border: 1px solid transparent;
+    text-transform: uppercase;
+}
+
+.home_slider h2{
+    color: #FF136F;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.home_slider .carousel-indicators button {
+    width: 16px !important;
+    height: 12px !important;
+    border-radius: 20px !important;
+    border-top: 0;
+    border-bottom: 0;
+    background-color: #CECECE;
+}
+
+.home_slider .carousel-indicators button.active{
+    width: 45px !important;
+    background-image:linear-gradient(#FF9C35, #FFD019);
+    border-radius: 50px !important;
+    background-size: auto 85%;
+}
+.home_slider .container {
+    background-image: url('../img/bg-1.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: auto 100%;
+}
+.home_slider {
+    background-image: url('../img/bg-2.png');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    padding-bottom: 60px;
+    background-size: 150px 150px;
+}
+.section_title{
+    margin-bottom: 50px;
+}
+
+.categores_section h2{
+    text-align: center;
+}
+.categores_section hr {
+    width: 135px;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #F47C00;
+    display: inline-block;
+}
+.center-mid {
+    text-align: center;
+}
+.section_title a {
+    color: #FF9D00;
+    text-decoration: none;
+}
+
+.category_area .card{
+    border: 1px solid transparent;
+    box-shadow: 0px 0px 7px lightgray;
+    padding-bottom: 30px;
+    border-radius: 15px;
+    padding-top: 30px;
+}
+.category_area .card-footer{
+    border: 1px solid transparent;
+    background-color: transparent;
+}
+.center-mid {
+    margin-bottom: 50px;
+}
+
+.categores_section .card{
+    border: none;
+    box-shadow: 0px 0px 7px lightgray;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border-radius: 100px 5px 100px 10px;
+    width: 100%;
+}
+.second_btn {
+    background-color: #000;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+
+.price {
+    margin-top: 30px;
+}
+
+.subcribe_area{
+    background-color: #FEEAE9;
+    border-radius: 20px;
+}
+
+.sub-btn {
+    background-color: red;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+    padding: 10px 30px;
+    color: #fff;
+}
+
+.subcribe {
+    padding: 100px 0;
+}
+
+.nav-left{
+    margin-left: auto;
+}
